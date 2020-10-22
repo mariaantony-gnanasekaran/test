@@ -9,7 +9,13 @@
       <lastmod>2020-04-22</lastmod>
 
    </sitemap>
+   <sitemap>
 
+      <loc>https://mariaantony-gnanasekaran.github.io/test/sitemap1.xml.gz</loc>
+
+      <lastmod>2020-04-22</lastmod>
+
+   </sitemap>
    <sitemap>
 
          <loc>https://mariaantony-gnanasekaran.github.io/test/viewer/sitemap.xml</loc>
