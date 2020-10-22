@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-        <url>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-        <loc>https://mariaantony-gnanasekaran.github.io/test/</loc>
-  
-        <lastmod>2020-04-22</lastmod>
-  
-    </url>
-        <url>
+   <sitemap>
 
-        <loc>https://mariaantony-gnanasekaran.github.io/test/viewer/</loc>
-  
-        <lastmod>2020-04-22</lastmod>
-  
-    </url>
-        <url>
+      <loc>https://mariaantony-gnanasekaran.github.io/test/designer/sitemap.xml</loc>
 
-        <loc>https://mariaantony-gnanasekaran.github.io/test/designer/</loc>
-  
-        <lastmod>2020-04-22</lastmod>
-  
-    </url>
-        <url>
+      <lastmod>2020-04-22</lastmod>
 
-        <loc>https://mariaantony-gnanasekaran.github.io/test/viewer/overview/</loc>
-  
-        <lastmod>2020-04-22</lastmod>
-  
-    </url>
-        <url>
+   </sitemap>
 
-        <loc>https://mariaantony-gnanasekaran.github.io/test/designer/overview/</loc>
-  
-        <lastmod>2020-04-22</lastmod>
-  
-    </url>
-</urlset>
+   <sitemap>
+
+         <loc>https://mariaantony-gnanasekaran.github.io/test/viewer/sitemap.xml</loc>
+
+      <lastmod>2020-04-22</lastmod>
+
+   </sitemap>
+
+</sitemapindex>
