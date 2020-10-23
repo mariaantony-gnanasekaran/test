@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
+ 
+    <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <sitemap>
 
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <loc>https://mariaantony-gnanasekaran.github.io/test/cloud-reporting.xml</loc>
+  
+        <lastmod>2020-10-23</lastmod>
+  
+    </sitemap>
+        <sitemap>
 
-   <sitemap>
+        <loc>https://mariaantony-gnanasekaran.github.io/test/enterprise-reporting.xml</loc>
+  
+        <lastmod>2020-10-23</lastmod>
+  
+    </sitemap>
+        <sitemap>
 
-      <loc>https://mariaantony-gnanasekaran.github.io/test/viewer.xml</loc>
+        <loc>https://mariaantony-gnanasekaran.github.io/test/embedded-reporting.xml</loc>
+  
+        <lastmod>2020-10-23</lastmod>
+  
+    </sitemap>
+        <sitemap>
 
-      <lastmod>2020-04-22</lastmod>
+        <loc>https://mariaantony-gnanasekaran.github.io/test/report-viewer-sdk.xml</loc>
+  
+        <lastmod>2020-10-23</lastmod>
+  
+    </sitemap>
+        <sitemap>
 
-   </sitemap>
-   <sitemap>
-
-         <loc>https://mariaantony-gnanasekaran.github.io/test/designer.xml</loc>
-
-      <lastmod>2020-04-22</lastmod>
-
-   </sitemap>
-
+        <loc>https://mariaantony-gnanasekaran.github.io/test/standalone-report-designer.xml</loc>
+  
+        <lastmod>2020-10-23</lastmod>
+  
+    </sitemap>
 </sitemapindex>
